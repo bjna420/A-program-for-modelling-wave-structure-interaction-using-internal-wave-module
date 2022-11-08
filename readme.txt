@@ -3,14 +3,14 @@ KIOSTFOAM Installation manual
 1. OpenFOAM installation
 Please refer to OpenFOAM installation link below
 
-os : ubuntu 14.04 기준
+os : ubuntu 14.04 
 https://openfoam.org/download/2-4-0-ubuntu/
-os : ubuntu 16.04 기준
+os : ubuntu 16.04 
 https://openfoamwiki.net/index.php/Installation/Linux/OpenFOAM-2.4.0/Ubuntu#Ubuntu_16.04
 
-2. Waves2FOAM 설치
-Waves2FOAM 매뉴얼 (manualWaves2Foam_v090.pdf)의 Installation of Wave2FOAM 참고 (p10)
-※ gfortran 설치 확인(설치 : sudo apt-get install gfortran)
+2. Waves2FOAM 
+Waves2FOAM manual (manualWaves2Foam_v090.pdf) Installation of Wave2FOAM (p10)
+※ gfortran installation (installation : sudo apt-get install gfortran)
 
 2.1 Waves2FOAM required library installation
 sudo apt-get install git
